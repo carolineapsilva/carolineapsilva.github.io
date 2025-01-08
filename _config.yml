@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Brazil / France"
-title                    : "Caroline A. de Paula Silva / "
+title                    : "Caroline A. de Paula Silva  "
 title_separator          : "-"
 name                     : &name "Caroline Silva"
 description              : &description "personal description"
@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Caroline A. de Paula Silva"
+  pronouns         : "she/her"  
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : #"University of Campinas, Campinas, Brazil // INRIA, Sophia-Antipolis, France"
+  employer         : "Institute of Campinas, University of Campinas, Campinas, Brazil // Centre Inria d'Université Côte d'Azur, Sophia-Antipolis, France"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "caroline.silva@ic.unicamp.br" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.br/citations?user=sdPg1RMAAAAJ&hl=fr"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4661-2822"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/carolineapsilva"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
