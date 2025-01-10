@@ -17,4 +17,4 @@ I am interested in combinatorics and algorithms, particularly in graph theory.
 
 Contact: caroline dot silva at ic.unicamp.br
 
-[CV Lattes]_(in portuguese)_ (http://lattes.cnpq.br/1371101199872699).
+[CV Lattes](http://lattes.cnpq.br/1371101199872699)_(in portuguese)_.
