@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "Brazil / France"
-title                    : "Caroline Silva  "
+title                    : "Caroline A. de Paula Silva  "
 title_separator          : "-"
-name                     : &name "Caroline Silva"
+name                     : &name "Caroline A. de Paula Silva"
 description              : &description "personal description"
 url                      : https://carolineapsilva.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
