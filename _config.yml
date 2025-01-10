@@ -22,7 +22,7 @@ repository               : "carolineapsilva"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Caroline A. de Paula Silva"
+  name             : #"Caroline A. de Paula Silva"
   pronouns         : "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"University of Campinas, Campinas, Brazil // INRIA, Sophia-Antipolis, France"
